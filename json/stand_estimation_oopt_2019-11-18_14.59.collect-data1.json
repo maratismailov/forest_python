@@ -1,0 +1,215 @@
+{
+    "stand_estimation": {
+        "@step": "1",
+        "@created_by": "",
+        "@modified_by": "",
+        "@created": "2019-11-18T14:33:16.264+06:00",
+        "@modified": "2019-11-18T14:35:45.999+06:00",
+        "cycle": {
+            "value": "2"
+        },
+        "region": {
+            "code": "5"
+        },
+        "oopt": {
+            "code": "7"
+        },
+        "zone": {
+            "code": "198"
+        },
+        "protect_category": {
+            "code": "4"
+        },
+        "forest_type": {
+            "code": "5"
+        },
+        "old_block": {
+            "value": "Uy"
+        },
+        "block": {
+            "value": "9"
+        },
+        "old_stands": {
+            "value": "Iut"
+        },
+        "stand_code": {
+            "value": "888"
+        },
+        "estimation_year": {
+            "value": "2019"
+        },
+        "stand_coordinates": [
+            {
+                "stand_coordinates": {
+                    "x": "74.53364841",
+                    "y": "42.85441673",
+                    "srs": "EPSG:4326"
+                }
+            },
+            {
+                "stand_coordinates": {
+                    "x": "74.533443",
+                    "y": "42.854676",
+                    "srs": "EPSG:4326"
+                }
+            },
+            {
+                "stand_coordinates": {
+                    "x": "74.533443",
+                    "y": "42.854676",
+                    "srs": "EPSG:4326"
+                }
+            }
+        ],
+        "land_category": {
+            "code": "30"
+        },
+        "exploitation_category": {
+            "code": "3"
+        },
+        "forest_origin": {
+            "code": "2"
+        },
+        "evolution_stage": {
+            "code": "3"
+        },
+        "exposition": {
+            "code": "4"
+        },
+        "layerage": {
+            "code": "2"
+        },
+        "forest_composition": [
+            {
+                "wood_species": {
+                    "code": "7"
+                },
+                "species_percent": {
+                    "code": "5"
+                }
+            },
+            {
+                "wood_species": {
+                    "code": "9"
+                },
+                "species_percent": {
+                    "code": "5"
+                }
+            }
+        ],
+        "age_class": {
+            "code": "4"
+        },
+        "crown_density": {
+            "code": "1"
+        },
+        "marketability_class": {
+            "code": "4"
+        },
+        "sanitary_class": {
+            "code": "2"
+        },
+        "stability": null,
+        "renewal_state": null,
+        "underbrush": null,
+        "cattle_pasture": null,
+        "forest_use_org_form": null,
+        "burl": null,
+        "additional_info": null,
+        "firehazardclass": {
+            "code": "2"
+        },
+        "planned_roads": null,
+        "ecoproblems": [
+            {
+                "ecoproblem_type": {
+                    "code": "5"
+                },
+                "ecoproblemseverity": {
+                    "code": "2"
+                }
+            }
+        ],
+        "grasscover": null,
+        "main_plants": [
+            {
+                "code": "8"
+            },
+            {
+                "code": "10"
+            },
+            {
+                "code": "11"
+            }
+        ],
+        "plant_redflag": [
+            {
+                "plant_species_redflag": {
+                    "code": "3"
+                },
+                "plant_occurence": {
+                    "code": "2"
+                }
+            }
+        ],
+        "animal_redflag": [
+            {
+                "animal_species_redflag": {
+                    "code": "293"
+                },
+                "animal_occurence": {
+                    "code": "3"
+                }
+            },
+            {
+                "animal_species_redflag": {
+                    "code": "292"
+                },
+                "animal_occurence": {
+                    "code": "2"
+                }
+            }
+        ],
+        "steepness": {
+            "value": "25.0"
+        },
+        "clutter": null,
+        "economic_state": null,
+        "land_category_f46_1": null,
+        "peoplevisit": null,
+        "potentialtour": null,
+        "planned_forest_use_org_form": null,
+        "action_priority_1": [
+            {
+                "action_type": {
+                    "code": "4"
+                },
+                "action_urgency": {
+                    "code": "3"
+                },
+                "action_area": {
+                    "value": "25.0"
+                },
+                "action_intensity": {
+                    "code": "2"
+                }
+            }
+        ],
+        "tillage_1": [
+            {
+                "code": "4"
+            }
+        ],
+        "creation_type_1": [
+            {
+                "code": "4"
+            },
+            {
+                "code": "3"
+            }
+        ],
+        "additionact": {
+            "value": "Jhy"
+        }
+    }
+}
