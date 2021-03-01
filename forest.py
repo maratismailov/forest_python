@@ -51,7 +51,9 @@ for filename in os.listdir('incoming'):
                     json.dump(newDict, outfile, indent=4)
                 insert_stand_estimation(newDict)
                 jsonNumber = jsonNumber+1
-    os.remove(filename)
+    else:
+        continue
+    # os.remove(filename)
 # for filename in glob.glob(path):
 #     print(path)
 #     if 'rent_data' in filename:
