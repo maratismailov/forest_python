@@ -18,7 +18,7 @@ from credentials import cr_dbname, cr_host, cr_password, cr_user
 # from updateForestryNum import update_forestry_num
 
 
-def insert_stand_estimation(newDict):
+def insert_stand_estimation_leshoz(newDict):
     def get_stand_estimation(arg1, arg2):
         if arg1 not in newDict['stand_estimation'].keys():
             newDict['stand_estimation'][arg1] = {arg2: None}
