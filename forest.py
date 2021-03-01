@@ -49,7 +49,7 @@ for filename in os.listdir('incoming'):
                 newDict = xmltodict.parse(f, force_list={'forest_composition','forest_use_type','planned_forest_use_type','action_priority_1', 'tillage_1', 'creation_type_1', 'action_priority_2', 'action_priority_2', 'tillage_2', 'creation_type_2', 'planned_forest_composition'})
                 with open(filename+str(jsonNumber)+'.json', 'w') as outfile:
                     json.dump(newDict, outfile, indent=4)
-                insert_stand_estimation(newDict)
+                insert_stand_estimation_leshoz(newDict)
                 jsonNumber = jsonNumber+1
     else:
         continue
