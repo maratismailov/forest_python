@@ -14,7 +14,7 @@ from stand_estimation_leshoz.insertAction2_tillage import insert_action2_tillage
 from stand_estimation_leshoz.insertAction1_creation import insert_action1_creation
 from stand_estimation_leshoz.insertAction2_creation import insert_action2_creation
 from stand_estimation_leshoz.insertGeometry import insert_polygon
-from ..credentials import cr_dbname, cr_host, cr_password, cr_user
+from credentials import cr_dbname, cr_host, cr_password, cr_user
 # from updateForestryNum import update_forestry_num
 
 
