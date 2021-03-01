@@ -53,7 +53,7 @@ for filename in os.listdir('incoming'):
                 jsonNumber = jsonNumber+1
     else:
         continue
-    os.remove(filename)
+    os.remove('incoming/' + filename)
 # for filename in glob.glob(path):
 #     print(path)
 #     if 'rent_data' in filename:
