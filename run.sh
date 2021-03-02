@@ -1,3 +1,3 @@
 #!/bin/bash
-source /home/ftpuser/.bashrc
-cd /home/ftpuser/forest_python && ./main.py
+source $HOME/.bashrc
+cd $HOME/forest_python && ./main.py
